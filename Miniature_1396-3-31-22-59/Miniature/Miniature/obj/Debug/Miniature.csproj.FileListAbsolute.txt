@@ -1,0 +1,27 @@
+c:\users\xor\documents\visual studio 2015\Projects\Miniature\Miniature\bin\Debug\Miniature.exe.config
+c:\users\xor\documents\visual studio 2015\Projects\Miniature\Miniature\bin\Debug\Miniature.exe
+c:\users\xor\documents\visual studio 2015\Projects\Miniature\Miniature\bin\Debug\Miniature.pdb
+c:\users\xor\documents\visual studio 2015\Projects\Miniature\Miniature\obj\Debug\Miniature.csprojResolveAssemblyReference.cache
+c:\users\xor\documents\visual studio 2015\Projects\Miniature\Miniature\obj\Debug\Miniature.Form1.resources
+c:\users\xor\documents\visual studio 2015\Projects\Miniature\Miniature\obj\Debug\Miniature.Properties.Resources.resources
+c:\users\xor\documents\visual studio 2015\Projects\Miniature\Miniature\obj\Debug\Miniature.csproj.GenerateResource.Cache
+c:\users\xor\documents\visual studio 2015\Projects\Miniature\Miniature\obj\Debug\Miniature.exe
+c:\users\xor\documents\visual studio 2015\Projects\Miniature\Miniature\obj\Debug\Miniature.pdb
+C:\Users\Javad\Desktop\Project\Miniature_1396-3-31-22-59\Miniature\Miniature\bin\Debug\Miniature.exe.config
+C:\Users\Javad\Desktop\Project\Miniature_1396-3-31-22-59\Miniature\Miniature\obj\Debug\Miniature.exe
+C:\Users\Javad\Desktop\Project\Miniature_1396-3-31-22-59\Miniature\Miniature\obj\Debug\Miniature.pdb
+C:\Users\Javad\Desktop\Project\Miniature_1396-3-31-22-59\Miniature\Miniature\obj\Debug\Miniature.csprojResolveAssemblyReference.cache
+C:\Users\Javad\Desktop\Project\Miniature_1396-3-31-22-59\Miniature\Miniature\obj\Debug\Miniature.Form1.resources
+C:\Users\Javad\Desktop\Project\Miniature_1396-3-31-22-59\Miniature\Miniature\obj\Debug\Miniature.Properties.Resources.resources
+C:\Users\Javad\Desktop\Project\Miniature_1396-3-31-22-59\Miniature\Miniature\obj\Debug\Miniature.csproj.GenerateResource.Cache
+C:\Users\Javad\Desktop\Project\Miniature_1396-3-31-22-59\Miniature\Miniature\bin\Debug\Miniature.exe
+C:\Users\Javad\Desktop\Project\Miniature_1396-3-31-22-59\Miniature\Miniature\bin\Debug\Miniature.pdb
+E:\University\semester4\Computer Architechture\Project\Miniature_1396-3-31-22-59\Miniature\Miniature\bin\Debug\Miniature.exe.config
+E:\University\semester4\Computer Architechture\Project\Miniature_1396-3-31-22-59\Miniature\Miniature\obj\Debug\Miniature.exe
+E:\University\semester4\Computer Architechture\Project\Miniature_1396-3-31-22-59\Miniature\Miniature\obj\Debug\Miniature.pdb
+E:\University\semester4\Computer Architechture\Project\Miniature_1396-3-31-22-59\Miniature\Miniature\bin\Debug\Miniature.exe
+E:\University\semester4\Computer Architechture\Project\Miniature_1396-3-31-22-59\Miniature\Miniature\bin\Debug\Miniature.pdb
+E:\University\semester4\Computer Architechture\Project\Miniature_1396-3-31-22-59\Miniature\Miniature\obj\Debug\Miniature.csprojResolveAssemblyReference.cache
+E:\University\semester4\Computer Architechture\Project\Miniature_1396-3-31-22-59\Miniature\Miniature\obj\Debug\Miniature.Form1.resources
+E:\University\semester4\Computer Architechture\Project\Miniature_1396-3-31-22-59\Miniature\Miniature\obj\Debug\Miniature.Properties.Resources.resources
+E:\University\semester4\Computer Architechture\Project\Miniature_1396-3-31-22-59\Miniature\Miniature\obj\Debug\Miniature.csproj.GenerateResource.Cache
