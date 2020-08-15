@@ -1,5 +1,5 @@
 # MiniatureinCSharp
-It is an implementation of a smilar-to-MIPS language called Miniature in C Sharp.
+It is an implementation of a similar-to-MIPS language called Miniature in C Sharp.
 
 Here are sample instructions of Miniature:
   
